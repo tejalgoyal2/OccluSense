@@ -3,8 +3,16 @@ Autonomous vehicles are the future of transportation, but safety and full autono
 
 
 # Methodology
-![image](https://github.com/tejalgoyal2/Occluded-Object-Detection-for-Autonomous-Vehicles/assets/132282123/9a0711ab-3888-42c6-ac1c-b91065b1a028)\
-
+![image](https://github.com/tejalgoyal2/Occluded-Object-Detection-for-Autonomous-Vehicles/assets/132282123/9a0711ab-3888-42c6-ac1c-b91065b1a028)
+- Obtain data
+- Annotate images with occluded instances
+- Split dataset into train, validation, and test sets
+- Preprocess and augment images
+- Train three models and tune parameters
+- Evaluate and compare results using the test sample
+- Refer to figure for an overview of the proposed methodology\
+\
+\
 (The data augmentation was done using [Roboflow](https://universe.roboflow.com))
 
 # Dataset
@@ -12,3 +20,9 @@ Used YOLOv5 - small model on pretrained COCO Dataset and done further training o
 Our dataset can be downloaded from Google drive by clicking [here.](https://drive.google.com/file/d/1uLjJvOHPyU1gb2R5FV-6WhzXucuAMAv8/view?usp=share_link)
 
 ## The YOLOv5 repository can be cloned from [ultralytics-yolov5](https://github.com/ultralytics/yolov5)
+
+
+
+
+# Research Papers
+T. Mostafa, S. J. Chowdhury, M. K. Rhaman and M. G. R. Alam, "Occluded Object Detection for Autonomous Vehicles Employing YOLOv5, YOLOX and Faster R-CNN," 2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), Vancouver, BC, Canada, 2022, pp. 0405-0410, doi: 10.1109/IEMCON56893.2022.9946565.
