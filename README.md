@@ -21,6 +21,12 @@ Our dataset can be downloaded from Google drive by clicking [here.](https://driv
 
 ## The YOLOv5 repository can be cloned from [ultralytics-yolov5](https://github.com/ultralytics/yolov5)
 
+# Performance
+
+![image](https://github.com/tejalgoyal2/Occluded-Object-Detection-for-Autonomous-Vehicles/assets/132282123/2a38d3a6-2e0f-41cd-8b37-7325058932c4)
+![image](https://github.com/tejalgoyal2/Occluded-Object-Detection-for-Autonomous-Vehicles/assets/132282123/19b7a1d8-87cc-4563-9c41-9c1748fde890)
+![image](https://github.com/tejalgoyal2/Occluded-Object-Detection-for-Autonomous-Vehicles/assets/132282123/10674303-aec7-4923-8cc3-b12de5401476)
+(You can also see these on tensor board by downloading the ipynb file and opening it in jupyter or colab - for some reason git is not showing these graph if we open it)
 
 
 
